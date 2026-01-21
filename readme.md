@@ -46,9 +46,6 @@ O `MotorDeRegras` utiliza o método `reduce` da Stream API para encadear as regr
 ### Comandos Principais
 
 ```bash
-# Clonar o repositório (ou extrair o zip)
-cd rule-engine
-
 # Compilar o projeto
 mvn clean compile
 
